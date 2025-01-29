@@ -26,7 +26,7 @@ Smart Plant Growth Optimizer is an advanced agricultural system designed to crea
 5️⃣ **Disease Detection & Alerts:** Analyzes images to identify diseases early and notifies users. <br>  
 
 ## 📌 <span style="color:#9b59b6;">Installation & Setup</span>  
-```sh
+
 git clone https://github.com/yourusername/SmartPlantGrowthOptimizer.git  
 cd SmartPlantGrowthOptimizer  
 pip install -r requirements.txt  
