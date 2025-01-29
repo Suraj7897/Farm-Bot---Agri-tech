@@ -33,7 +33,7 @@ pip install -r requirements.txt
 python main.py  
 
 
-📸 Screenshots / Demo
+📸 <span style="color:#e67e22;">Screenshots / Demo</span>
 (Add relevant images showcasing the system in action)
 
 
